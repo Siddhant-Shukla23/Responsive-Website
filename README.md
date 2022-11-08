@@ -1,4 +1,6 @@
 # Responsive-Website
+![responsivewebsite](https://user-images.githubusercontent.com/113886712/200680614-389fbc68-8351-4401-82ba-65342e6e9078.png)
+
 Benefits of Responsive Web Design
 The main benefits of using a responsive website are
 
